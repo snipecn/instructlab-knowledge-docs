@@ -1,1 +1,3 @@
-# Fork this for knowledge doc submissions
+# Upstream Template for knowledge doc submissions.
+
+No docs ever get stored here. Only on user downstream forks.
